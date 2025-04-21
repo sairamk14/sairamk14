@@ -34,4 +34,11 @@ I’m a Computer Science graduate currently seeking a role as a Software Develop
 
 ---
 
+### 🎓 Education
+
+**Bachelor of Technology – Computer Science and Engineering**  
+*Aditya Engineering College, Kakinada* — *2019 – 2023*  
+**CGPA**: 7.4
+
+---
 
