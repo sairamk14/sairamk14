@@ -1,55 +1,37 @@
+<h1 align="center"> Hello, I'm Sai Ram 👋</h1>
 
-<h1 align="center"> Hello, I'm Sai Ram</h1>
-<h5 align="center">
-  <a href="www.linkedin.com/in/sairam-kukkala/"><img src="https://img.shields.io/badge/LinkedIn-SaiRam-blue?style=flat-square" alt="LinkedIn"></a>  
-</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sairam-kukkala/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Ram%20Kukkala-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
 
-<h4>I’m a Computer Science graduate currently seeking a role as a Software Developer to apply my technical skills, contribute to real-world projects, and grow as a developer.</h4>
+---
 
+### 👨‍💻 About Me
 
-## Technical Skills
+I’m a Computer Science graduate currently seeking a role as a Software Developer to apply my technical skills, contribute to real-world projects, and grow as a developer.
 
-<details>
-<summary><b>Programming Languages</b></summary>
-<ul>
-  <li>Java</li>
-  <li>C</li>
-  <li>Python</li>
-</ul>
-</details>
+---
 
-<details>
-<summary><b>Database Technology</b></summary>
-<ul>
-  <li>MySQL</li>
-</ul>
-</details>
+### 🛠️ Technical Skills
 
-<details>
-<summary><b>Web Technologies</b></summary>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-</details>
+**Programming Languages**: Java, C, Python  
+**Database Technology**: MySQL  
+**Web Technologies**: HTML, CSS, JavaScript  
+**Frameworks**: Spring Boot, Angular  
+**Core Competencies**: Algorithms and Data Structures, SDLC, Agile Methodology  
+**Tools**: Eclipse, Visual Studio Code, MySQL Command Line, Postman, Git
 
-<details>
-<summary><b>Frameworks</b></summary>
-<ul>
-  <liSpring Boot</li>
-  <li>Angular</li>
-  
-</ul>
-</details>
+---
+
+### 🎓 Training
+
+**Full Stack Development (Java)**  
+*NSE TalentSprint, Hyderabad* — *Jun 2023 – Nov 2023*  
+• Trained in Core Java, Advanced Java, MySQL, HTML, CSS, Bootstrap, JavaScript, Spring Boot, and Angular  
+• Developed **WedLock** – a Matrimony Web App as a capstone project
+
+---
 
 
-<details>
-<summary><b>Tools</b></summary>
-<ul>
-  <li>Eclipse</li>
-  <li>Visual Studio Code</li>
-  <li>Git</li>
-  <li>Postman</li>
-</ul>
-</details>
