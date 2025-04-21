@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hello, I'm Sai Ram</h1>
-<p align="center">
+<h5 align="center">
   <a href="www.linkedin.com/in/sairam-kukkala/"><img src="https://img.shields.io/badge/LinkedIn-SaiRam-blue?style=flat-square" alt="LinkedIn"></a>  
-</p>
+</h5>
 
 <h4>I’m a Computer Science graduate currently seeking a role as a Software Developer to apply my technical skills, contribute to real-world projects, and grow as a developer.</h4>
 
@@ -31,6 +31,15 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Frameworks</b></summary>
+<ul>
+  <liSpring Boot</li>
+  <li>Angular</li>
+  
 </ul>
 </details>
 
